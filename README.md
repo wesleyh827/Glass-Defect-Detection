@@ -5,11 +5,10 @@
 ## 目錄結構
 
 ```
-data.html         # 測試數據與說明網頁
 main.py           # 主程式，瑕疵檢測核心
-path.txt          # 影像路徑與程式說明
 test.py           # 測試用程式
-test.txt          # 測試計畫與需求說明
+t.py              # 對整個資料夾的所有檔案進行比較
+rename.py         # 將資料夾內的檔案依照defect ratio 跟 defect area 重新命名
 ```
 
 ## 主要功能
